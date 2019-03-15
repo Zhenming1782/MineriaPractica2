@@ -1,0 +1,29 @@
+Transacciones
+A B C
+C
+E F
+E F H
+I J
+D
+I
+D K
+J
+J E
+G H
+D J
+H L
+K D
+E M
+K P O
+K O
+J
+B
+L P
+L E
+M
+L
+D J
+K G
+E F
+H
+Q
